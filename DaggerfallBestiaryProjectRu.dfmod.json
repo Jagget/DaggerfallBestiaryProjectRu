@@ -1,6 +1,6 @@
 {
     "ModTitle": "Daggerfall Enemy Expansion Ru",
-    "ModVersion": "1.0.0",
+    "ModVersion": "1.3.2",
     "ModAuthor": "Jagget",
     "ContactInfo": "https://forums.dfworkshop.net",
     "DFUnity_Version": "1.0.0",
@@ -14,7 +14,8 @@
         {
             "Name": "daggerfall enemy expansion",
             "IsOptional": false,
-            "IsPeer": false
+            "IsPeer": false,
+            "Version": "1.3.0"
         }
     ]
 }
